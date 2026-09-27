@@ -1,9 +1,0 @@
-*.tgz
-node_modules/
-.env.local
-.next/
-npm-debug.log*
-build/
-yarn-error.log*
-.DS_Store
-.cache/
